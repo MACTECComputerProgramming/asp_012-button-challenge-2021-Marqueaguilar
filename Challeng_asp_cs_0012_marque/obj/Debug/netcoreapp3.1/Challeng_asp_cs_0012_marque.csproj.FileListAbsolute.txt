@@ -1,0 +1,17 @@
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\obj\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque.csprojAssemblyReference.cache
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\obj\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque_MarkupCompile.cache
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\obj\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque_MarkupCompile.lref
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\bin\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque.exe
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\bin\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque.deps.json
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\bin\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque.runtimeconfig.json
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\bin\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque.runtimeconfig.dev.json
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\bin\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque.dll
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\bin\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque.pdb
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\obj\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque.g.resources
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\obj\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque.AssemblyInfoInputs.cache
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\obj\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque.AssemblyInfo.cs
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\obj\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque.dll
+C:\Users\MaconRM180\Documents\marque\Challeng_asp_cs_0012_marque\obj\Debug\netcoreapp3.1\Challeng_asp_cs_0012_marque.pdb
